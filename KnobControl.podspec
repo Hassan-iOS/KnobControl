@@ -32,7 +32,7 @@ Pod::Spec.new do |spec|
 
 
 
-  spec.source       = { :path => '.' }
+  spec.source       = { :git => "https://github.com/rubyhm/KnobControl.git", :tag => "1.0.0" }
 
 
 
